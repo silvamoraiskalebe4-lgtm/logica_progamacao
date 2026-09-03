@@ -33,6 +33,7 @@ public class Variaveis {
     String nome = "kalebe silva";// texto
     boolean casada = false;// vlaor logico //true - verdadeiro , false -falso   
      System.out.println("Ola"+nome);
-     System.out.println("voce tem"+idade+"anos de idade");}
+     System.out.println("voce tem"+idade+"anos de idade");
+    }
 }
 // nem um codigo pode ficar aqui fora   
