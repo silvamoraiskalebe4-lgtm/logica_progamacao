@@ -10,19 +10,13 @@ package com.mycompany.variaveis;
  */
 import java.util.Scanner;
 
-public class Questao2 {
+public class Questao5 {
     public static void main(String[] args) {
-        //solicitar a idade do usario
-        int idade;
-        Scanner entradaNumero= new Scanner(System.in);
+    
+      int altura;  
         
-        System.out.println("Digite sua idade");
-        idade=entradaNumero.nextInt();
-        
-        System.out.println("Ola,"+idade+"!anos.");
-        
-                
-        
-        
+     Scanner entradaNumero= new Scanner (System.in);
+    
     }
+    
 }
