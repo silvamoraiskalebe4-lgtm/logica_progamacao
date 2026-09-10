@@ -4,20 +4,21 @@
  */
 package com.mycompany.variaveis;
 
+import java.util.Scanner;
+
 /**
  *
  * @author KalebeMorais
  */
-import java.util.Scanner;
-
-public class Questao5 {
+public class Questa7 {
     public static void main(String[] args) {
-    
-      int altura;  
+        Scanner entradaTexto = new Scanner (System .in);
         
-     Scanner entradaNumero= new Scanner (System.in);
-        System.out.println("");
-    
+        System.out.println("Digita seu nome");
+        String nome = entradaTexto.nextLine();
+        
+        
+        
     }
     
 }
