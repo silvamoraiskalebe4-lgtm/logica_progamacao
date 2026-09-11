@@ -16,7 +16,7 @@ public static void main(String[] args) {
     
     String nome;
     int idade; 
-    String ingresso;
+    String ingresso; 
     boolean autorizacao = false;
     
     Scanner entradaTexto=new Scanner (System.in);
